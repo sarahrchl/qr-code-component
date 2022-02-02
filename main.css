@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  background-color: hsl(220, 15%, 55%);
+  font-family: 'Outfit', sans-serif;
+}
+
+.container {
+  background-color: hsl(0, 0%, 100%);
+  width: 350px;
+  height: 480px;
+  border:  10px;
+  padding: 50px;
+  border-radius: 10px;
+  text-align: center;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  margin-top: 155px;
+  margin: 0 auto;
+}
+
+.container img {
+  width: 90px;
+}
+
+.h1 {
+
+}
+
+.p {
+  font-size: 15px;
+}
